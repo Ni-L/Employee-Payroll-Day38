@@ -40,7 +40,6 @@ img
 {
   color: #42515f;
 }
-/*UC 2*/
 .form-content
 {
   min-height:calc(100%-80px);
@@ -98,7 +97,6 @@ label
   border-radius: 4px; 
   resize: vertical; 
 }
-/* UC 3 */
 .profile-radio-content 
 {
   display: flex; 
@@ -116,7 +114,6 @@ label
   border-radius: 50%; 
   margin-left: 12px;
 }
-/* UC5 */
 select 
 {
   padding: 12px; 
@@ -128,7 +125,6 @@ select
   color: lid42515f; 
   background-color: transparent; 
 }
-/* UC7 */
 .button-content 
 {
   display: flex;
@@ -171,4 +167,11 @@ select
   border: 1px solid #969696;
   border-radius: 5px;
   background-color: #E2E2E2;
+}
+error-output
+{
+  margin-left:10px;
+  font-size:12px;
+  font-style:italic;
+  color:red;
 }
